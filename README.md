@@ -1,0 +1,2 @@
+# MyPythonExercise
+Learning and Testing
